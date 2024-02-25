@@ -1,0 +1,167 @@
+[
+  {
+    "title": "The Pilgrim’s Progress",
+    "description": "A story of a man in search of truth told with the simple clarity and beauty of Bunyan’s prose make this the ultimate English classic.",
+    "isbn": "9780191569579",
+    "publication": "1678 ",
+    "authorname": "John Bunyan",
+    "dob": "30 November 1628",
+    "shortbio": "John Bunyan was a 17th century English writer and Puritan preacher. He is known for his many Christian-based works and for his imprisonment for his refusal to stop preaching non-Anglican doctrine in England.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pilgrim%27s_Progress_first_edition_1678.jpg/330px-Pilgrim%27s_Progress_first_edition_1678.jpg",
+    "id": "1"
+  },
+  {
+    "title": " Robinson Crusoe",
+    "description": "By the end of the 19th century, no book in English literary history had enjoyed more editions, spin-offs and translations. Crusoe’s world-famous novel is a complex literary confection, and it’s irresistible.",
+    "isbn": "9788577158287",
+    "publication": "25 April 1719 ",
+    "authorname": "Daniel Defoe",
+    "dob": "1660",
+    "shortbio": "Daniel Defoe ( born Daniel Foe; c. 1660 – 24 April 1731) was an English novelist, journalist, merchant, pamphleteer and spy. He is most famous for his novel Robinson Crusoe, published in 1719, which is claimed to be second only to the Bible in its number of translations.",
+    "image": "https://cdn.kobo.com/book-images/51b8f927-0184-48ce-8bd1-c29db15e9ce0/353/569/90/False/robinson-crusoe-456.jpg",
+    "id": "2"
+  },
+  {
+    "title": " Gulliver’s Travels",
+    "description": "A satirical masterpiece that’s never been out of print, Jonathan Swift’s Gulliver’s Travels comes third in our list of the best novels written in English",
+    "isbn": " 9780140430226",
+    "publication": "28 October 1726 ",
+    "authorname": "Jonathan Swift",
+    "dob": "30 November 1667",
+    "shortbio": "Jonathan Swift (born November 30, 1667, Dublin, Ireland—died October 19, 1745, Dublin) Anglo-Irish author, who was the foremost prose satirist in the English language. Besides the celebrated novel Gulliver's Travels (1726), he wrote such shorter works as A Tale of a Tub (1704) and “A Modest Proposal” (1729).",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/81xvwGTpaLL._AC_UL600_SR600,600_.jpg",
+    "id": "3"
+  },
+  {
+    "title": " The Life and Opinions of Tristram Shandy, Gentleman",
+    "description": "Laurence Sterne’s vivid novel caused delight and consternation when it first appeared and has lost little of its original bite.",
+    "isbn": "354357888458",
+    "publication": "December 1759",
+    "authorname": "Laurence Sterne",
+    "dob": "24 November 1713",
+    "shortbio": "Laurence Sterne was an Irish novelist and Anglican cleric who wrote the novels The Life and Opinions of Tristram Shandy, Gentleman and A Sentimental Journey Through France and Italy, published sermons and memoirs, and indulged in local politics. He grew up in a military family",
+    "image": "https://m.media-amazon.com/images/I/51MAF5MsT-L._AC_UF1000,1000_QL80_.jpg",
+    "id": "4"
+  },
+  {
+    "title": " Emma",
+    "description": "Jane Austen’s Emma is her masterpiece, mixing the sparkle of her early books with a deep sensibility.",
+    "isbn": "9788494407291",
+    "publication": "23 December 1815",
+    "authorname": "Jane Austen",
+    "dob": "16 December 1775",
+    "shortbio": "Jane Austen was born in Steventon, Hampshire on December 16, 1775 and grew up in a tight-knit family. She was the seventh of eight children, with six brothers and one sister. Her parents, George Austen and Cassandra Leigh, were married in 1764.",
+    "image": "https://m.media-amazon.com/images/I/81WX67s6LqL._AC_UF1000,1000_QL80_.jpg",
+    "id": "5"
+  },
+  {
+    "title": "Frankenstein",
+    "description": "Mary Shelley’s first novel has been hailed as a masterpiece of horror and the macabre",
+    "isbn": "9780520201798",
+    "publication": "1 January 1818",
+    "authorname": "Mary Shelley",
+    "dob": "30 August 1797",
+    "shortbio": "Mary Wollstonecraft Shelley (née Godwin; 30 August 1797 - 1 February 1851) was an English novelist, short story writer, dramatist, essayist, biographer, and travel writer, best known for her Gothic novel Frankenstein: or, The Modern Prometheus 1818",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iJJRgLpLLLQfY6wqFSbvEM0RMo4lXr1RNQ355y_LOZIT9b_r5u4Nv00JxH6jmRYOSgw&usqp=CAU",
+    "id": "6"
+  },
+  {
+    "title": " Nightmare Abbey",
+    "description": "The great pleasure of Nightmare Abbey, which was inspired by Thomas Love Peacock’s friendship with Shelley, lies in the delight the author takes in poking fun at the romantic movement.",
+    "isbn": "9783347635074",
+    "publication": "November 1818",
+    "authorname": "Thomas Love Peacock",
+    "dob": "18 October 1785",
+    "shortbio": "Peacock, Thomas Love (1785–1866), satirical novelist and poet, was born on 18 October 1785 at Weymouth, or Melcombe Regis, Dorset, the only child of Samuel Peacock (c. 1742–c. 1793), a London glass merchant, and his wife, Sarah, née Love (1754–1832), daughter of Thomas Love, a retired master in the Royal Navy.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCx0uO2S8a4bIgzVDw4XlLCBA97NhMYGHgz8yPhvBmx0Sq15aaXRFoABgJRmo7OP3uU4Y&usqp=CAU",
+    "id": "7"
+  },
+  {
+    "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+    "description": "Edgar Allan Poe’s only novel – a classic adventure story with supernatural elements – has fascinated and influenced generations of writers.",
+    "isbn": "9786554610230",
+    "publication": "July 1838",
+    "authorname": "Edgar Allan Poe",
+    "dob": "January 19, 1809",
+    "shortbio": "Edgar Allan Poe (né Edgar Poe; January 19, 1809 – October 7, 1849) was an American writer, poet, author, editor, and literary critic who is best known for his poetry and short stories, particularly his tales of mystery and the macabre.",
+    "image": "https://cdn.kobo.com/book-images/1237038a-e6f3-4a67-bff5-a5445bda0277/1200/1200/False/the-narrative-of-arthur-gordon-pym-of-nantucket-45.jpg",
+    "id": "8"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "description": "Nathaniel Hawthorne’s astounding book is full of intense symbolism and as haunting as anything by Edgar Allan Poe.",
+    "isbn": " 9780030098604",
+    "publication": "1850",
+    "authorname": " Nathaniel Hawthorne",
+    "dob": "July 4, 1804",
+    "shortbio": "Nathaniel Hawthorne was an American novelist and short story writer. His works often focus on history, morality, and religion.",
+    "image": "https://m.media-amazon.com/images/I/71H+FBiPe7L._AC_UF1000,1000_QL80_.jpg",
+    "id": "9"
+  },
+  {
+    "title": "Alice’s Adventures in Wonderland",
+    "description": "Lewis Carroll’s brilliant nonsense tale is one of the most influential and best loved in the English canon.",
+    "isbn": "9780194229647",
+    "publication": "November 1865",
+    "authorname": "Lewis Carroll",
+    "dob": "27 January 1832",
+    "shortbio": "Carroll was born in Daresbury, England, on January 27, 1832. His real name was Charles Lutwidge Dodgson. He studied mathematics at Oxford University in England. For most of his life he lived at Oxford while teaching mathematics.",
+    "image": "https://cdn.kobo.com/book-images/e4e4bc3e-6823-47dd-a1e8-262ffb4f98f1/353/569/90/False/alice-s-adventures-in-wonderland-480.jpg",
+    "id": "10"
+  },
+  {
+    "title": "The Moonstone",
+    "description": "Wilkie Collins’s masterpiece, hailed by many as the greatest English detective novel, is a brilliant marriage of the sensational and the realistic.",
+    "isbn": "9780140434088",
+    "publication": "1868",
+    "authorname": "Wilkie Collins ",
+    "dob": "8 January 1824",
+    "shortbio": "The son of William Collins (1788–1847), the landscape painter, he developed a gift for inventing tales while still a schoolboy at a private boarding school. His first published work was a memoir to his father, who died in 1847, Memoirs of the Life of William Collins, Esq., R.A. (1848).",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/z/k/t/the-moonstone-original-imagnvtean46zed9.jpeg?q=90&crop=false",
+    "id": "11"
+  },
+  {
+    "title": " The Way We Live Now ",
+    "description": "Inspired by the author’s fury at the corrupt state of England, and dismissed by critics at the time, The Way We Live Now is recognised as Trollope’s masterpiece.",
+    "isbn": "978019101505",
+    "publication": "1875",
+    "authorname": "Anthony Trollope",
+    "dob": "24 April 1815",
+    "shortbio": "Anthony Trollope (24 April 1815 – 6 December 1882) was an English novelist and civil servant of the Victorian era. Among his best-known works is a series of novels collectively known as the Chronicles of Barsetshire, which revolves around the imaginary county of Barsetshire.",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/q/z/w/the-way-we-live-now-original-imagrvgs2fzdagwk.jpeg?q=90&crop=false",
+    "id": "12"
+  },
+  {
+    "title": " The Adventures of Huckleberry Finn",
+    "description": "Mark Twain’s tale of a rebel boy and a runaway slave seeking liberation upon the waters of the Mississippi remains a defining classic of American literature.",
+    "isbn": "9780175570478",
+    "publication": "December 10, 1884 ",
+    "authorname": "Mark Twain",
+    "dob": "November 30, 1835",
+    "shortbio": "Mark Twain was an American humorist, novelist, and travel writer. Today he is best remembered as the author of The Adventures of Tom Sawyer (1876) and Adventures of Huckleberry Finn (1885). Twain is widely considered one of the greatest American writers of all time.",
+    "image": "https://m.media-amazon.com/images/I/51EU6zFkbEL._AC_UF1000,1000_QL80_.jpg",
+    "id": "13"
+  },
+  {
+    "title": " The Picture of Dorian Gray",
+    "description": "Wilde’s brilliantly allusive moral tale of youth, beauty and corruption was greeted with howls of protest on publication.",
+    "isbn": "9786555980004",
+    "publication": "1890",
+    "authorname": "Oscar Wilde",
+    "dob": "16 October 1854",
+    "shortbio": "Oscar Fingal O'Flahertie Wills Wilde was born on October 16th, 1854 in Dublin, Ireland. He was the second child of parents Sir William and Jane Wilde; his older brother, William Robert Kingsbury Wills Wilde, was born in 1852 and his younger sister, Isola Francesca Emily Wilde, would be born in 1857.",
+    "image": "https://m.media-amazon.com/images/I/51PbDzqptyL._AC_UF1000,1000_QL80_.jpg",
+    "id": "14"
+  },
+  {
+    "title": "The Red Badge of Courage",
+    "description": "Stephen Crane’s account of a young man’s passage to manhood through soldiery is a blueprint for the great American war novel.",
+    "isbn": "9780195814002",
+    "publication": "October 1895",
+    "authorname": "Stephen Crane",
+    "dob": "November 1, 1871",
+    "shortbio": "Stephen Crane, born in Newark, New Jersey in 1871, completed the short novel that would become the godfather of all American war novels, and an inspiration for writers as diverse as Ernest Hemingway and JD Salinger, while still in his early 20s. ",
+    "image": "https://m.media-amazon.com/images/I/91JpQaDtX1L._AC_UF1000,1000_QL80_.jpg",
+    "id": "15"
+  }
+]

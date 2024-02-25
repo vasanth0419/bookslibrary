@@ -1,0 +1,82 @@
+/* navbar */
+
+.nav {
+  margin: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: #ff033e;
+  color: white !important;
+  display: flex;
+  gap: 30px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.nav a {
+  color: white;
+}
+.nav button {
+  margin-left: auto;
+  justify-content: end;
+  border-radius: 30px;
+}
+
+
+/* home */
+.card img{
+  width: 80%;
+  height: 200px;
+  margin: 30px 30px 10px 30px;
+  padding: 5px;
+}
+.card {
+  height: 550px;
+  width: 330px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  border-radius: 30px;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.offcanvas-body img{
+  width: 80%;
+  height: 350px !important;
+  margin: 0 30px 40px 30px;
+  border-radius: 30px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.card button{
+  border-radius: 30px;
+  align-self: flex-end;
+}
+
+/* books */
+
+.table button{
+  background-color: white;
+  border: none;
+}
+
+/* addbooks */
+
+.add{
+  width: 500px;  
+  height: max-content;
+  align-items: center;
+  border: solid;
+  border-radius: 30px;
+  margin-top: 50px ;
+  letter-spacing: 2px;
+  line-height: 30px;
+  padding: 20px;
+}
+ .add input{
+  width: 90%;
+  border-radius: 30px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.add button{
+  margin-left: 350px;
+  padding: 5px 10px;
+  margin-top: 10px;
+  border-radius: 30px;
+}
